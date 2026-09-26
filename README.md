@@ -12,7 +12,7 @@ I'm interested in what happens between the code we write and the hardware that r
 
 ## What I'm building and exploring
 
-- **GPU performance:** CUDA kernels and Ada Lovelace microbenchmarks exploring memory access patterns, cache behavior, occupancy, and instruction-level parallelism.
+- **GPU performance:** CUDA kernels
 - **Processor design:** RISC-V datapaths, five-stage pipelines, forwarding, stalls, and control flow, with a growing focus on SystemVerilog verification and FPGA implementation.
 - **Systems fundamentals:** C++ emulation, instruction decoding, memory, and the details that connect software behavior to a machine.
 - **Parallel computing education:** Hands-on learning materials that help students move from Linux and SSH to CUDA programming.
