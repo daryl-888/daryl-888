@@ -1,7 +1,9 @@
 <h1 align="center">Daryl Alfaro</h1>
 <p align="center"><strong>GPU Computing · Computer Architecture · FPGA &amp; RTL</strong></p>
 <p align="center">Computer Engineering, University of Houston — B.S. May 2027, M.S. Electrical Engineering May 2028 (accelerated program)<br>GPA 3.5 · President, UH Parallel Computing Society</p>
+
 ---
+
 I'm interested in what happens between the code we write and the hardware that runs it. I build CUDA kernels, explore GPU performance, and work on RISC-V processor designs to understand that connection from both sides.
 
 **I'm seeking a Summer 2027 engineering internship — GPU/AI architecture and performance first, then RTL and design verification, then embedded/firmware and systems software.**
